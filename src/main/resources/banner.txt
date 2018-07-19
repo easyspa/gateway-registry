@@ -1,0 +1,4 @@
+EasySpa Gateway Registry
+
+${AnsiColor.BRIGHT_BLUE}:: EasySpa Registry :: Running Spring Boot ${spring-boot.version} ::
+:: http://www.simlife.io ::${AnsiColor.DEFAULT}
